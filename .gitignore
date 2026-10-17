@@ -1,0 +1,11 @@
+# Compiled Java files
+*.class
+out/
+
+# Student data generated while running the program
+students.csv
+
+# IDE files
+.idea/
+.vscode/
+*.iml
